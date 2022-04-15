@@ -1,0 +1,48 @@
+body{
+    /*top bottom left and right*/
+    /*another way is through angles*/
+    background : hsl(195, 53%, 79%);
+    font-size: 1.35em;
+    /*text transform*/
+    /*text-transform: uppercase;*/
+    /*text alignment*/
+    text-align: justify;
+    /* being able to conquer the world */
+    font-family: 'Comfortaa', cursive;
+
+}
+img{
+    width: 60vw;
+    height: 500px;
+    border: 10px solid hsl(195, 4%, 22%);
+    margin: 80px 40px;
+    float: right;
+    display: none;
+    
+}
+p{
+    font-style: italic;
+}
+
+
+#title {
+    color: red;
+    font-weight: 400;
+}
+
+/*you want to make the main title the darkest and the subtitles smaller*/
+/*gradient*/
+/*pretty switching of colors*/
+
+/*text manipulation*/
+/*text decoration*/
+.link{
+    text-decoration: underline;
+    float:right;
+}
+/*Layout*/
+/*layout*/
+/*css box-model*/
+/*if you like choose to stay broke*/
+/* Float and display type*/
+/* Elements have a certain display type block and inline*/
